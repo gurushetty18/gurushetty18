@@ -150,12 +150,10 @@ class GuruKumar {
 ## 📈 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/output/github-contribution-grid-https://github.com/Platane/snk"/>
 </p>
 
-> 💡 To activate this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named exactly `gurushetty18` (your username), so it can generate and commit the snake SVG automatically.
 
----
 
 <div align="center">
 
