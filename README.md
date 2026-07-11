@@ -103,17 +103,7 @@
 ✔ Confidential Data Transfer
 
 </td>
-<td width="50%" valign="top">
 
-### 🎬 Book My Ticket
-**Spring Boot • Razorpay • Cloudinary**
-
-✔ Online Movie Ticket Booking
-✔ Razorpay Payment Integration
-✔ QR Code Generation & Email Confirmation
-✔ Cloudinary Image Hosting
-
-</td>
 </tr>
 </table>
 
