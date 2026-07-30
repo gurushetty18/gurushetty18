@@ -33,7 +33,7 @@
 
 <img align="right" width="340" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif">
 
-- 🎓 Electronics & Communication Engineering Graduate (VTU, Bengaluru)
+- 🎓 Electronics & Communication Engineering Graduate (VTU, Belagavi)
 - 💼 Java Full Stack Intern @ QSpiders
 - 🌱 Currently mastering **Spring Boot, Spring MVC, Hibernate, Spring Security, REST APIs**
 - 💡 Passionate about designing scalable, real-world web applications with Java
