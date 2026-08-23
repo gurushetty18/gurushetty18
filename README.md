@@ -227,39 +227,6 @@ class GuruKumar {
 
 ---
 
-<!-- Experience -->
-<h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
-
-### Java Full Stack Developer Intern
-**QSpiders — Test Yantra Software Solutions | Bengaluru | Feb 2026 – May 2026**
-
-- Developed Java and Spring Boot web applications using RESTful APIs, Spring MVC, MySQL, Hibernate, and MVC architecture.
-- Implemented backend business logic, database operations, CRUD functionality, exception handling, and API integration.
-- Worked with Git, GitHub, and collaborative development practices.
-- Practiced SQL query development, database design, and Hibernate/Spring Data JPA persistence.
-
----
-
-<!-- Education -->
-<h2 align="center">🎓 Eᴅᴜᴄᴀᴛɪᴏɴ</h2>
-
-| Qualification | Institution | Result / Year |
-|---|---|---|
-| **B.E. — Electronics & Communication Engineering** | Government Engineering College, Chamarajanagar — VTU | **7.97 / 10 • 2022–2026** |
-| **PUC — Science Stream** | Basaveshwara PU Science College, Bagalkot | **79% • 2020–2022** |
-| **SSLC** | B.C. Kalhal High School, Kanaur | **88% • 2020** |
-
----
-
-<!-- Certifications -->
-<h2 align="center">📜 Cᴇʀᴛɪғɪᴄᴀᴛɪᴏɴs</h2>
-
-- ☕ Java Full Stack Development Certification
-- 🔧 Java Back-End Development Certification — Core Java & SQL Database Management
-- 🌱 Spring Boot, Spring Framework, Hibernate & REST APIs
-
----
-
 <!-- Achievements -->
 <h2 align="center">🏅 Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs & Aᴄᴛɪᴠɪᴛɪᴇs</h2>
 
