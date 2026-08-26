@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner (capsule-render — reliable, no external file dependency) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/banner.png" alt="GuruKumar Hosakoti Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:220a28,100:441350&height=200&section=header&text=Hi%20I'm%20GuruKumar%20Hosakoti&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Backend%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="GuruKumar Hosakoti Banner" width="100%"/>
 </p>
 
 <!-- Header -->
@@ -65,11 +65,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 <p align="center">
   <a href="https://github.com/gurushetty18">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai" />
   </a>
 </p>
 
@@ -84,7 +80,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=gurushetty18&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurushetty18&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
@@ -92,7 +88,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gurushetty18&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats"/>
+          <img align="center" src="https://streak-stats.demolab.com/?user=gurushetty18&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats"/>
         </a>
       </p>
     </td>
@@ -102,7 +98,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Pʀᴏғɪʟᴇ</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=gurushetty18&repo=guru.github.io&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Portfolio Repository"/>
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=gurushetty18&repo=guru.github.io&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Portfolio Repository"/>
         </a>
       </p>
     </td>
@@ -110,7 +106,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=gurushetty18&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions"/>
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=gurushetty18&limit=5&theme=nightowl" alt="Top Contributions"/>
         </a>
       </p>
     </td>
