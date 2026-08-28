@@ -1,9 +1,7 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/banner.png" alt="GuruKumar Hosakoti Banner" width="100%"/>
 </p>
 
-<!-- Header -->
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm GuruKumar Hosakoti!
@@ -37,7 +35,6 @@
 
 ---
 
-<!-- Start Intro -->
 <div>
   <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -60,7 +57,6 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 ---
 
-<!-- GitHub Trophies -->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 <p align="center">
@@ -75,7 +71,6 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 ---
 
-<!-- GitHub Stats -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -89,7 +84,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>SᴛʀᴇᴀKs Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gurushetty18&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats"/>
@@ -119,16 +114,16 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 ---
 
-<!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurushetty18&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="GitHub Contribution Graph"/>
+  <a href="https://github.com/gurushetty18">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurushetty18&theme=react-dark&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
+  </a>
 </div>
 
 ---
 
-<!-- Featured Projects -->
 <h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <table width="100%">
@@ -175,127 +170,3 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 - 🔒 AES encryption and decryption
 - 🖼️ Secure information hiding inside digital images
 - 📥 Data embedding and extraction
-- 🛡️ Designed for confidential data transfer
-- 💻 Simple interface for encryption/decryption workflows
-
-    </td>
-    <td width="50%" valign="top">
-
-### 💡 Java Full Stack Development
-
-**Java • Spring Boot • Spring MVC • Hibernate • MySQL • React.js**
-
-- REST API development
-- Backend business logic
-- Database operations
-- CRUD functionality
-- MVC architecture
-- Frontend and backend integration
-- Exception handling and API integration
-
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Learning -->
-<h2 align="center">🌱 Wʜᴀᴛ I'ᴍ Lᴇᴀʀɴɪɴɢ</h2>
-
-```java
-class GuruKumar {
-
-    String[] learning = {
-        "Spring Security",
-        "JWT Authentication",
-        "Microservices",
-        "Docker",
-        "AWS",
-        "System Design",
-        "Advanced React.js",
-        "Scalable REST APIs"
-    };
-
-    String[] developmentTools = {
-        "Claude",
-        "GitHub Copilot",
-        "Google Gemini",
-        "Antigravity"
-    };
-}
-```
-
----
-
-<!-- Achievements -->
-<h2 align="center">🏅 Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs & Aᴄᴛɪᴠɪᴛɪᴇs</h2>
-
-- 🏃 Track & Field Athlete — sprint events (100m/200m) and relay races
-- 🏐 VTU Inter-Collegiate Kabaddi Representative — represented GEC Chamarajanagar three times
-- ♟️ VTU Inter-Collegiate Chess Representative
-- 🏆 District-level Chess and Taluka-level Kabaddi participation during school
-- 🌾 Hands-on agricultural and farming activities
-
----
-
-<!-- Dynamic Quote -->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ Oғ Tʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Soren%20Kierkegaard&quote=Life%20is%20not%20a%20problem%20to%20be%20solved%2C%20but%20a%20reality%20to%20be%20experienced.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
----
-
-<!-- Connect Section -->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-
-<div align="center">
-
-<a href="mailto:gurushetty018@gmail.com" target="_blank">
-  <img src="./gmail.png" width="50" height="50" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/shetty18__/" target="_blank">
-  <img src="./instagram.png" width="50" height="50" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/gurushetty18" target="_blank">
-  <img src="./github.png" width="50" height="50" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/gurukumar-hosakoti-2a0070281/" target="_blank">
-  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://gurushetty18.github.io/guru.github.io" target="_blank">
-  🌐 <strong>Portfolio</strong>
-</a>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-<a href="./GuruKumar_Hosakoti_Resume.pdf">
-  📄 <strong>Download Resume</strong>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <strong>💬 "Code. Learn. Improve. Repeat."</strong>
-  <br/><br/>
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
