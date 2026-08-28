@@ -1,111 +1,117 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+# Hi, I'm GuruKumar Hosakoti 👋
+
+### Java Full Stack Developer | Spring Boot • Spring MVC • Hibernate • MySQL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=C1121F&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Spring+MVC+Developer;Backend+Engineer;Building+Real-World+Applications;Always+Learning+New+Technologies"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/gurukumar-hosakoti-2a0070281/">
+  <img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://gurushetty18.github.io/guru.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+</a>
+<a href="mailto:gurushetty018@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-C1121F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/gurushetty18">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gurushetty18&style=for-the-badge&color=c1121f&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+## 💻 About Me
+
+<img align="right" width="340" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif">
+
+- 🎓 Electronics & Communication Engineering Graduate (VTU, Belagavi)
+- 💼 Java Full Stack Intern @ QSpiders
+- 🌱 Currently mastering **Spring Boot, Spring MVC, Hibernate, Spring Security, REST APIs**
+- 💡 Passionate about designing scalable, real-world web applications with Java
+- 🚀 Looking for **Java Full Stack Developer** opportunities
+- ⚡ Fun fact: I like giving my UIs a signature **dark glassmorphic** look
+
+<br clear="right">
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/banner.png" alt="GuruKumar Hosakoti Banner" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,bootstrap,maven,git,github,eclipse,vscode&theme=dark"/>
 </p>
 
 <div align="center">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm GuruKumar Hosakoti!
-
-### Java Developer • Backend Developer • Java Full Stack Developer
-**Spring Boot • Hibernate • React.js**
-
-<p>
-  <a href="https://github.com/gurushetty18">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gurukumar-hosakoti-2a0070281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://gurushetty18.github.io/guru.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:gurushetty018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/shetty18__/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gurushetty18&label=Profile%20Views&color=770677&style=for-the-badge&logo=star" alt="gurushetty18"/>
-</p>
+| Category | Stack |
+|---|---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-C1121F?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-C1121F?style=flat-square&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-C1121F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-C1121F?style=flat-square&logo=hibernate&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-1a1a1a?style=flat-square&logo=java&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=flat-square&logo=eclipseide&logoColor=white) |
 
 </div>
 
 ---
 
-<div>
-  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-## 👨‍💻 About Me
-
-I am a **Java Developer / Backend Developer / Java Full Stack Developer** with hands-on experience building web applications using **Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs, MySQL, and React.js**.
-
-- 🎓 Bachelor of Engineering in Electronics & Communication Engineering — GEC Chamarajanagar, VTU
-- 💼 Java Full Stack Developer Intern at **QSpiders — Test Yantra Software Solutions**
-- 🌱 Currently strengthening my knowledge of **Spring Security, JWT Authentication, Microservices, Docker, AWS, and System Design**
-- 💡 Strong foundation in **OOP, DSA, SQL, MVC Architecture, and Database Management**
-- 🤝 Familiar with **Agile/Scrum, Jira, Git, GitHub, and Bitbucket**
-- 🤖 Experienced with AI-assisted development tools such as **Claude, GitHub Copilot, Google Gemini, and Antigravity**
-- 🚀 Interested in building practical, scalable, real-world applications
-- 📄 **[Download My Resume](./GuruKumar_Hosakoti_Resume.pdf)**
-- 🌐 **[Visit My Portfolio](https://gurushetty18.github.io/guru.github.io)**
-
-<br clear="right"/>
-
----
-
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/gurushetty18">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&theme=onedark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=15&margin-h=15">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=15&margin-h=15">
     </picture>
   </a>
 </p>
 
 ---
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+## 📊 GitHub Analytics & Stats
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=gurushetty18&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurushetty18&show_icons=true&theme=dark&hide_border=true&title_color=C1121F&icon_color=C1121F&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>SᴛʀᴇᴀKs Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=gurushetty18&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats"/>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurushetty18&theme=dark&hide_border=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&background=0d1117" alt="Streak Stats"/>
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Pʀᴏғɪʟᴇ</strong></h3>
+      <h3 align="center"><strong>Repository Pin</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=gurushetty18&repo=guru.github.io&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Portfolio Repository"/>
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=gurushetty18&repo=guru.github.io&theme=dark&show_owner=true&title_color=C1121F&bg_color=0d1117&text_color=ffffff" alt="Portfolio Repository"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Activity Graph</strong></h3>
       <p align="center">
         <a href="https://github.com/gurushetty18">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=gurushetty18&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions"/>
+          <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gurushetty18&theme=react-dark&bg_color=0d1117&color=C1121F&line=C1121F&point=ffffff&hide_border=true" alt="Activity Graph"/>
         </a>
       </p>
     </td>
@@ -114,106 +120,69 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 ---
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/gurushetty18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurushetty18&theme=react-dark&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
-  </a>
-</div>
-
----
-
-<h2 align="center">🚀 Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🩸 Blood Donation & Hospital Request System
-
-**Spring Boot • Spring Security • Twilio SDK • TwiML • Spring Data JPA • Thymeleaf • MySQL • Bootstrap**
-
-- 🏥 Connects hospitals with blood donors
-- 🩸 Hospitals can post blood requests
-- 🤝 Donors can manage pledges
-- 📊 Tracks donation fulfillment status
-- 📞 Integrated Twilio Voice API and TwiML for Click-to-Call
-- 🔐 Implemented role-based authentication and route authorization
-- 🗄️ Designed relational entities using JPA/Hibernate and custom repository queries
-
-    </td>
-    <td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 Student Attendance Management System
+**Spring MVC • Hibernate • Spring Data JPA • Thymeleaf • MySQL**
 
-**Spring Boot • Spring Data JPA • Hibernate • Thymeleaf • MySQL • Bootstrap**
+✔ Student Registration & Photo Upload
+✔ Daily Attendance Marking
+✔ Attendance History & Monthly % Report
+✔ Full CRUD Operations
+✔ One-To-Many Entity Mapping
+✔ Responsive Dashboard UI
 
-- 👨‍🎓 Student management and registration
-- 📝 Daily attendance tracking
-- 📅 Attendance history
-- 📊 Monthly attendance percentage reports
-- 🔄 CRUD operations
-- 🔗 One-to-Many entity relationships
-- 🖼️ Student profile photo upload using MultipartFile
-- 📱 Responsive Thymeleaf + Bootstrap interface
+</td>
+<td width="50%" valign="top">
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+### 📚 Student Course Registration System
+**Java • JDBC • MySQL**
 
-### 🔐 AES Cryptography & LSB Steganography
+✔ Course Registration Workflow
+✔ Student Management
+✔ Full CRUD Operations
+✔ Direct Database Connectivity
 
-**Java • AES Encryption • LSB Steganography**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 🔒 AES encryption and decryption
-- 🖼️ Secure information hiding inside digital images
-- 📥 Data embedding and extraction
-- 🛡️ Designed for confidential data transfer
-- 💻 Simple interface for encryption/decryption workflows
+### 🔒 AES Cryptography & LSB Steganography
+**Java • AES • Image Processing**
 
-    </td>
-    <td width="50%" valign="top">
+✔ AES Encryption/Decryption
+✔ Secure Image-Based Steganography
+✔ Confidential Data Transfer
 
-### 💡 Java Full Stack Development
+</td>
+<td width="50%" valign="top">
 
-**Java • Spring Boot • Spring MVC • Hibernate • MySQL • React.js**
+### 🩸 Blood Donation System
+**Spring Boot • Spring MVC • Hibernate • MySQL**
 
-- REST API development
-- Backend business logic
-- Database operations
-- CRUD functionality
-- MVC architecture
-- Frontend and backend integration
-- Exception handling and API integration
+🚧 **Developing**
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">🌱 Wʜᴀᴛ I'ᴍ Lᴇᴀʀɴɪɴɢ</h2>
+## 🌟 What I'm Learning
 
 ```java
 class GuruKumar {
-
     String[] learning = {
         "Spring Security",
         "JWT Authentication",
         "Microservices",
         "Docker",
         "AWS",
-        "System Design",
-        "Advanced React.js",
-        "Scalable REST APIs"
-    };
-
-    String[] developmentTools = {
-        "Claude",
-        "GitHub Copilot",
-        "Google Gemini",
-        "Antigravity"
+        "System Design"
     };
 }
