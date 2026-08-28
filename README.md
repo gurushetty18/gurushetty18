@@ -170,3 +170,50 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 - 🔒 AES encryption and decryption
 - 🖼️ Secure information hiding inside digital images
 - 📥 Data embedding and extraction
+- 🛡️ Designed for confidential data transfer
+- 💻 Simple interface for encryption/decryption workflows
+
+    </td>
+    <td width="50%" valign="top">
+
+### 💡 Java Full Stack Development
+
+**Java • Spring Boot • Spring MVC • Hibernate • MySQL • React.js**
+
+- REST API development
+- Backend business logic
+- Database operations
+- CRUD functionality
+- MVC architecture
+- Frontend and backend integration
+- Exception handling and API integration
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌱 Wʜᴀᴛ I'ᴍ Lᴇᴀʀɴɪɴɢ</h2>
+
+```java
+class GuruKumar {
+
+    String[] learning = {
+        "Spring Security",
+        "JWT Authentication",
+        "Microservices",
+        "Docker",
+        "AWS",
+        "System Design",
+        "Advanced React.js",
+        "Scalable REST APIs"
+    };
+
+    String[] developmentTools = {
+        "Claude",
+        "GitHub Copilot",
+        "Google Gemini",
+        "Antigravity"
+    };
+}
