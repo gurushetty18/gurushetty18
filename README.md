@@ -57,12 +57,14 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=6&width=100%25&section=header" width="100%"/>
 </p>
 
-## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ-
-
-
+## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=6&width=100%25&section=header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_Dark.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
