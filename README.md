@@ -57,7 +57,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=6&width=100%25&section=header" width="100%"/>
 </p>
 
-## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
+## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ-
 
 
 
