@@ -49,7 +49,6 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 - 🤝 Familiar with **Agile/Scrum, Jira, Git, GitHub, and Bitbucket**
 - 🤖 Experienced with AI-assisted development tools such as **Claude, GitHub Copilot, Google Gemini, and Antigravity**
 - 🚀 Interested in building practical, scalable, real-world applications
-- 📄 **[Download My Resume](./GuruKumar_Hosakoti_Resume.pdf)**
 - 🌐 **[Visit My Portfolio](https://gurushetty18.github.io/guru.github.io)**
 
 <br clear="right"/>
@@ -81,9 +80,9 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 <p align="center">
   <a href="https://github.com/gurushetty18">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=18&margin-h=18&theme=radical">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&row=2&column=6&margin-w=18&margin-h=18&theme=juicyfresh">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=gurushetty18&no-bg=true&no-frame=true&row=2&column=6&margin-w=18&margin-h=18&theme=juicyfresh">
     </picture>
   </a>
 </p>
@@ -133,7 +132,7 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 <div align="center">
   <a href="https://github.com/gurushetty18">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurushetty18&theme=react-dark&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=gurushetty18&theme=react-dark&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="GitHub Contribution Graph" width="100%" />
   </a>
 </div>
 
