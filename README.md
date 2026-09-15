@@ -60,11 +60,19 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 ## 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_Dark.gif" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg">
+    <img alt="Tech stack animation" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=6&width=100%25&section=header" width="100%"/>
 </p>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
