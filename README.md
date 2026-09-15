@@ -61,9 +61,9 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg">
-    <img alt="Tech stack animation" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_White.gif">
+    <img alt="Tech stack animation" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_White.gif" width="100%"/>
   </picture>
 </p>
 
