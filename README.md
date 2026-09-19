@@ -61,9 +61,9 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg">
-    <img alt="Tech stack animation" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/skills-animation-white.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_White.gif">
+    <img alt="Tech stack rotating animation" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/main/Skills_Animation_White.gif" width="480"/>
   </picture>
 </p>
 
@@ -145,8 +145,6 @@ I am a **Java Developer / Backend Developer / Java Full Stack Developer** with h
     <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/gurushetty18/gurushetty18/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </p>
-
-> One-time setup needed — see the **Snake animation** section at the bottom of this reply for the workflow file that generates this automatically every day.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=6&width=100%25&section=header" width="100%"/>
