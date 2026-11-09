@@ -40,7 +40,7 @@
 
 ## 👨‍💻 Aʙᴏᴜᴛ Mᴇ
 
-I am a **Java Developer / Backend Developer / Java Full Stack Developer** with hands-on experience building web applications using **Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs, MySQL, and React.js**.
+I am a **Java Developer / Backend Developer** with hands-on experience building web applications using **Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs, MySQL, and React.js**.
 
 - 🎓 Bachelor of Engineering in Electronics & Communication Engineering — GEC Chamarajanagar, VTU
 - 💼 Java Full Stack Developer Intern at **QSpiders — Test Yantra Software Solutions**
